@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  touch-action: none;
+}
+canvas {
+  display: block;
+}
+#restartButton {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 20px;
+  padding: 10px 20px;
+  z-index: 10;
+  display: none;
+}
