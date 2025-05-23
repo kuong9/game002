@@ -19,7 +19,7 @@ let isGameOver = false;
 
 let stageIndex = 0;
 let timerExpired = false;
-const stageTime = 20;
+const stageTime = 90;
 let timer = stageTime;
 let lives = 3;
 let areaRevealed = 0;
